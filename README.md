@@ -11,7 +11,7 @@
 
 - 👨‍💻 Todos os meus projetos PÚBLICOS estão disponíveis em [https://github.com/JoaoPedroXD](https://github.com/JoaoPedroXD)
 
-- 💬 Pergunte me sobre **C#, ASP.net Core, SQL, WEB API, Mobile**
+- 💬 Pergunte me sobre **Java, AWS, IaC, GCP, C#, ASP.net Core, SQL, WEB API, Mobile**
 
 - 📫 Você pode me contatar **joaopedro.nunesqueiroz@gmail.com**
 
